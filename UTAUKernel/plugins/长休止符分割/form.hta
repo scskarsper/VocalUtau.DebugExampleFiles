@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>長い休符を分割</title>
+<HTA:APPLICATION 
+     APPLICATIONNAME="HTAUTAUPLUGIN"
+     SINGLEINSTANCE="yes"
+     ID="HTAObject"
+>
+<script language="JScript" src="unit.js"></script>
+<script language="JScript" src="htahelper.js"></script>
+<script language="JScript" src="utaufilemanager.js"></script>
+<script language="JScript" src="restslicer.js"></script>
+</head>
+<body onload="setup();">
+<h1>長い休符を分割</h1>
+<form name="mainform">
+<fieldset>
+長さ
+<input id="duration" type="text" value="1920">
+以上の休符(R)を
+<input id="durationinto" type="text" value="480">
+ごとに分割する。余りは
+<select id="excess">
+<option value="first">最初に余りの休符を追加する</option>
+<option value="last">最後に余りの休符を追加する</option>
+<option value="addfirst">最初の休符に含める</option>
+<option value="addlast" selected>最後の休符に含める</option>
+<option value="floor">切り捨てる</option>
+<option value="ceil">切り上げる</option>
+</select><br>
+※長さは四分音符を480とした数値で指定
+</fieldset>
+<fieldset>
+<button onclick="start();">この設定で実行</button>　 
+<button onclick="cancel();">キャンセル</button>
+</fieldset>
+</form>
+</body>
+</html>

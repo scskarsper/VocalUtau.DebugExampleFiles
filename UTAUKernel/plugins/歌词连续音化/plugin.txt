@@ -1,0 +1,2 @@
+name=单独音转连续音
+execute=wrap.exe

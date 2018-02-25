@@ -1,0 +1,16 @@
+wscript back2cv.js
+
+//---------------
+
+一行目の記述だけ有効
+
+wscript hoge.js
+とか
+foo.bat
+とか
+
+一番最後に引数追加して、シェルにコマンド吐くだけ。
+
+wscript hoge.js <utauプラグインデータパス>
+
+のような感じで実行される。

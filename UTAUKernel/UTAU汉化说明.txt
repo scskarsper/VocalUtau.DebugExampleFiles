@@ -1,0 +1,32 @@
+UTAU 0.4.16汉化说明
+
+汉化者：Ecthel（夕暮）
+汉化版本：UTAU 0.4.16 
+汉化程度：98％
+未汉化处：
+●frq编辑器
+●部分窗口的取消按钮
+与其他汉化版本比较：
+●修正了XP下，汉字显示忽大忽小的问题。
+●修正了音源库设定界面的所有乱码，完全汉化。
+●一次性frq生成界面完全汉化。
+●音符属性界面的细节全部汉化。
+●内置插件全部汉化。
+●如有未完整处请联系汉化者。
+
+警告：
+请勿在此汉化版本上做任何形式的二次汉化变更。仅供学习交流使用。
+
+感谢本汉化版本的测试者：
+淑蝶（iV）、冰狼
+
+汉化者联系方式：
+Lofter主页：http://www.atdusk.tk 或者 http://atdusk.lofter.com
+音源HP：http://ecthelciaran.weebly.com
+新浪微博：http://weibo.com/atdusky
+Twitter：@ecthelciaran
+邮箱：ecthelciaran@hotmail.com
+贴吧ID：EcthelCiaran
+
+
+

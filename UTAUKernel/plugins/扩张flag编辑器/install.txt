@@ -1,0 +1,4 @@
+type=editplugin
+folder=adflagedit
+description=◆拡張フラグエディタ Version 1.11
+ustversion=1.00

@@ -1,0 +1,3 @@
+name=À©ÕÅFlag±à¼­Æ÷
+execute=flagedit.exe
+ustversion=1.00

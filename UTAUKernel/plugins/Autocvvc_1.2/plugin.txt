@@ -1,0 +1,2 @@
+name=Autocvvc 1.2(&A)
+execute=autocvvc.exe

@@ -1,0 +1,2 @@
+name=Script方式打开UST
+execute=utauplugin.exe

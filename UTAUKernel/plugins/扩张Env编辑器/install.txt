@@ -1,0 +1,3 @@
+type=editplugin
+folder=envedit
+description=¡ô’ˆˆ¥¨¥ó¥Ù¥í©`¥×¥¨¥Ç¥£¥¿ Version 1.62

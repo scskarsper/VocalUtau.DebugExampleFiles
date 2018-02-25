@@ -1,0 +1,3 @@
+name=PitTraceÀ©ÕÅ±à¼­Æ÷
+execute=pittrace.exe
+ustversion=1.00

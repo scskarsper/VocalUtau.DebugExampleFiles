@@ -1,0 +1,2 @@
+name=连续音统一设定
+execute=autoren.exe

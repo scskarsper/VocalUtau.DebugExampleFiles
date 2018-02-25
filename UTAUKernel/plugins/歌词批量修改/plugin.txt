@@ -1,0 +1,2 @@
+name=歌词批量修改
+execute=歌詞の一括変換.exe

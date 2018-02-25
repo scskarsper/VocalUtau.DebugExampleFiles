@@ -1,0 +1,176 @@
+/* ‚r‚g‚h‚m‚s‚`‚ÌƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Ìƒwƒ‹ƒv@ƒXƒ^ƒCƒ‹ƒV[ƒg */
+
+/* ‘S”Ê */
+
+P , .CONTENT , .B , .E
+{
+	Background-Color:	Black;
+/*	Font-Family		:	"‚l‚r –¾’©","Times New Roman";*/
+	Font-Size		:	12pt;
+	Color			:	White;
+	Line-Height		:	130%;
+}
+
+.INDEX
+{
+	Background-Color:	#666699;
+	Background-Image:	url(IdxBG.jpg);
+	Background-Repeat:	Repeat;
+/*	Font-Family		:	"‚e‚` ‚oƒSƒVƒbƒN","‚l‚r ‚oƒSƒVƒbƒN","Arial";*/
+	Font-Size		:	10pt;
+	Color			:	White;
+	Line-Height		:	120%;
+	White-Space		:	nowrap;
+}
+
+/* ‚ae */
+
+.B
+{
+/*	Font-Size		:	12pt;*/
+	Font-Style		:	Normal;
+	Font-Weight		:	Bold;
+	Color			:	#6666FF;
+	Line-Height		:	120%;
+	Text-Decoration	:	Underline;
+}
+
+.E
+{
+/*	Font-Size		:	12pt;*/
+	Font-Style		:	Normal;
+	Font-Weight		:	Bold;
+	Color			:	#FF0000;
+	Line-Height		:	120%;
+	Text-Decoration	:	Underline;
+}
+
+/* Œ©o‚µ */
+
+H1
+{
+	Background-Color:	#FFFF99;
+	Margin			:	0px;
+	Padding			:	10px;
+	Border-Width	:	6px;
+	Border-Style	:	Ridge;
+	Border-Color	:	#FFFF00;
+/*	Font-Family		:	"‚e‚` ‚oƒSƒVƒbƒN","‚l‚r ‚oƒSƒVƒbƒN","Arial";*/
+	Font-Size		:	150%;
+	Font-Weight		:	Bold;
+	Color			:	Navy;
+	Text-Align		:	Center;
+}
+
+H2
+{
+	Background-Color:	#9999CC;
+	Margin-Left		:	5%;
+	Margin-Right	:	5%;
+	Padding			:	5px;
+	Border-Width	:	6px;
+	Border-Style	:	Ridge;
+	Border-Color	:	#6666CC;
+/*	Font-Family		:	"‚e‚` ‚oƒSƒVƒbƒN","‚l‚r ‚oƒSƒVƒbƒN","Arial";*/
+	Font-Size		:	130%;
+	Font-Weight		:	Bold;
+	Color			:	#FFCC99;
+	Text-Align		:	Center;
+}
+
+H3
+{
+	Background-Color:	#99CC99;
+/*	Margin-Right	:	Auto;*/
+	Margin-Right	:	50%;
+	Padding			:	1px;
+	Border-Width	:	1px;
+/*	Font-Family		:	"‚e‚` ‚oƒSƒVƒbƒN","‚l‚r ‚oƒSƒVƒbƒN","Arial";*/
+	Font-Weight		:	Bold;
+	Color			:	#990099;
+}
+
+.INDEXTITLE
+{
+	Background-Color:	#666699;
+	Background-Image:	url(IdxBG.jpg);
+	Background-Repeat:	Repeat;
+	Font-Size		:	130%;
+	Font-Weight		:	Bold;
+	Text-Align		:	Center;
+}
+
+/* ‹­’² */
+
+EM	/* ’ˆÓ‚È‚Ç */
+{
+	Font-Style		:	Normal;
+	Font-Weight		:	Bold;
+	Color			:	Red;
+	Vertical-Align	:	Middle;
+}
+
+STRONG	/* Œx‚È‚Ç */
+{
+	Background-Color:	Yellow;
+	Font-Size		:	110%;
+	Font-Weight		:	Bold;
+	Letter-Spacing	:	0.2em;
+	Color			:	Red;
+	Vertical-Align	:	Middle;
+}
+
+/* ƒvƒŒ */
+
+PRE
+{
+	Margin-Left		:	3%;
+	Margin-Right	:	3%;
+	Padding			:	5px;
+	Border-Width	:	2px;
+	Border-Style	:	Solid;
+	Border-Color	:	#669999;
+	Font-Size		:	12pt;
+	Color			:	White;
+	Line-Height		:	120%;
+	White-Space		:	Pre;
+/*	Background-Color:	#666666;*/
+}
+
+/* ƒe[ƒuƒ‹ */
+
+TABLE.General
+{
+	Padding			:	1px;
+	Width			:	99%;
+}
+
+TH.General
+{
+	Background-Color:	#990000;
+	Border-Width	:	1px;
+	Border-Style	:	None;
+	Color			:	#CCFFFF;
+}
+
+TD.General
+{
+	Background-Color:	#660000;
+	Border-Width	:	1px;
+	Border-Style	:	None;
+	Color			:	#CCFFFF;
+}
+
+/* ƒŠƒ“ƒN */
+
+A:LINK,A:ACTIVE
+{
+	Font-Weight		:	Bold;
+	Color			:	Yellow;
+}
+
+A:VISITED
+{
+	Color			:	#FFCC00;
+}
+

@@ -1,0 +1,3 @@
+name=À©ÕÅ°üÂçÏß±à¼­Æ÷
+execute=envedit.exe
+ustversion=1.00

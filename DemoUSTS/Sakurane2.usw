@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<WorkSpaceProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Beats>4</Beats>
+  <TEMPO>180</TEMPO>
+  <SpaceName>UntitledUtauWorkSpace</SpaceName>
+  <TrackAtoms>
+    <WorkSpaceTracks>
+      <isWavTrack>false</isWavTrack>
+      <TrackName>sakurane_homony</TrackName>
+      <TrackStart>0</TrackStart>
+      <TrackGuid>4b158252-eb7f-4223-b7b0-d78f32e044ec</TrackGuid>
+      <BaseFile />
+    </WorkSpaceTracks>
+    <WorkSpaceTracks>
+      <isWavTrack>false</isWavTrack>
+      <TrackName>sakurane_main</TrackName>
+      <TrackStart>0</TrackStart>
+      <TrackGuid>fc0b6027-d7fb-4c82-8ca0-6bc1e54cdfb2</TrackGuid>
+      <BaseFile />
+    </WorkSpaceTracks>
+  </TrackAtoms>
+  <TrackLength>480</TrackLength>
+  <SpaceGuid>fb78e594-2914-456a-801d-fdc5060c2cb5</SpaceGuid>
+</WorkSpaceProject>
